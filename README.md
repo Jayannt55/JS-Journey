@@ -1,2 +1,2 @@
 # JS-Journey
-My JavaScript  Journey  form beginning 
+My JavaScript  Journey  from beginning 
