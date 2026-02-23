@@ -59,6 +59,7 @@ let stringToBoolean = Boolean(score)
 // console.log(1 + 2 + "2") =>  32
 // yeh sab aacha tarika nhi h likhne ka kyu ki yeh code readability ko kharab karta h
 /* ab yeh jo hum ko dikh raha h ki hum add kar rahe per bhi yeh dono ko chipka kar likh de raah or kahi per yeh add kar ke  phir chipka raha => jo phela type hoga vohi dusreme convert hokar output dega jaise ki "1" + 2 to yaha per phela ek string h to 2 ko phele string banega or phir output */
+// and atlast in per depend na rahe or isko real life code m mat likhna 
 
 
 
