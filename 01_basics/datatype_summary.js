@@ -1,3 +1,5 @@
+/* kis taraf data ko  memory store kiya jata h or kis taraf usko access kiya jata use ke basic per data type ko two parts ne convert kiya gaya h */
+ 
 //  Primitive
 
 //  7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt
